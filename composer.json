@@ -1,0 +1,13 @@
+{
+    "name": "ravishtiwari/MessageAPI",
+    "description": "Simple HTTP API for sending text messages through ClickATell Gateway",
+    "authors": [
+        {
+            "name": "Ravish Kumar Tiwari",
+            "email": "ravishktiwari@hotmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
